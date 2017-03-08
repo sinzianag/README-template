@@ -5,6 +5,11 @@ A quick description about what the product does.
 #### Table of Contents
 
 1. [Getting Started](#getting-started)
+2. [App Structure](#app-structure)
+3. [Testing](#testing)
+4. [Versioning](#versioning)
+5. [License](#license)
+6. [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
