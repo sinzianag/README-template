@@ -33,7 +33,8 @@ install another dependency
 
 The steps for installing the application and running it. If there are multiple running configurations use the optional section on running.
 
-#### Running configuration
+### Usage
+This section will cover how to use the application, how to configure it. This might include some examples of how the application works. Either code examples, http request examples, ui screenshots or anything else.
 
 ## App Structure
 
@@ -41,6 +42,9 @@ A quick overview of the application structure. This should cover a high level vi
 
 ### Build with
 * [node.js](https://nodejs.org/en/)
+
+### Architecture
+A high level overview of the application structure. Code should be self documenting but this might be useful for someone just getting into the product and wanting to customize it.
 
 ## Testing
 
@@ -55,6 +59,10 @@ This inlcudes prerequisits and running instructions
 This sections should include information about how much the tests cover. 
 
 If there are performance tests, this is where you would be able to find the benchmarks ( either noted here or as a link to a separate document).
+
+## Development status
+
+This section should give a high level overview of the health of the app. If it's production ready, if all the tests are running and if they cover enough areas. 
 
 ## Versioning
 
